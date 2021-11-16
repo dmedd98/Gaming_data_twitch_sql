@@ -4,7 +4,7 @@ This project was created following instructions from the Gaming Data with Twitch
 
 Take a look at my responses to the project's SQL prompts [Here](twitch_queries.sql)
 
-As well as a short powerpoint presentation [Here](Twitch SQL presentation.pdf)
+As well as a short powerpoint presentation [Here](https://github.com/dmedd98/Gaming_data_twitch_sql/blob/main/Twitch%20SQL%20presentation.pdf)
 
 Here is a visualzaition of the top 10 games by viewer count 
 ![image](https://user-images.githubusercontent.com/79603572/141874091-5625788a-fa89-4ac6-9972-22ee2c155fa3.png)
