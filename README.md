@@ -1,1 +1,3 @@
-# Gaming_data_twitch_sql
+# Codecademy + Twitch
+
+https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
